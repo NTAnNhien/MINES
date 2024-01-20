@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705736912 source:d:\codeblocks\btl - tro choi do min (mines)\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
